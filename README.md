@@ -32,7 +32,7 @@ Ao final deve se exibir uma mensagem:
 1. Com o Node Instalado, faça o clone do repositório com o comando `git clone https://github.com/Enyus/dio-calcular-rank.git`
 2. Entre na pasta do repo com o comando `cd dio-calcular-rank`
 3. Rode o comando `node script.js`
-4. No próprio console de comandos, o programa deve perguntar o Nome do Herói e sua Quantidade de XP, recebendo um retorno parecido com:
+4. No próprio console de comandos, o programa deve perguntar o número de Vitórias e de Derrotas, recebendo um retorno parecido com:
 ![Retorno Esperado](./public/resultado.jpg)
 
 ## Observações
